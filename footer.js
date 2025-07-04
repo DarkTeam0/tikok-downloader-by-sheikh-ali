@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function() {
             color: white;
         }
         .credit-footer a:hover {
-            transform: scale(0.5);
+            transform: scale(0.2);
             box-shadow: 0 4px 8px rgba(0,255,255,0.4);
         }
     `;

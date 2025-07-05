@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
             margin-top: 40px;
             position: fixed;
             bottom: 0;
-            height: 80%;
+            height: 50%;
             left: 0;
             z-index: 1000;
         }

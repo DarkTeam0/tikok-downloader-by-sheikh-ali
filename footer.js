@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function() {
             text-decoration: none;
             margin: 10px;
             display: inline-block;
-            padding: 6px 12px;
+            padding: 12px 24px;
             border-radius: 6px;
             font-weight: bold;
             transition: transform 0.3s ease, box-shadow 0.3s ease;

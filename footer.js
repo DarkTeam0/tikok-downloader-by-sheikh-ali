@@ -34,9 +34,9 @@ document.addEventListener("DOMContentLoaded", function() {
         }
         .credit-footer a {
             text-decoration: none;
-            margin: 5px;
+            margin: 10px;
             display: inline-block;
-            padding: 12px 24px;
+            padding: 6px 12px;
             border-radius: 6px;
             font-weight: bold;
             transition: transform 0.3s ease, box-shadow 0.3s ease;

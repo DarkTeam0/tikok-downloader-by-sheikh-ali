@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
     style.textContent = `
         .credit-footer {
             background: #111;
-            padding: 19px;
+            padding: 10px;
             text-align: center;
             border-top: 2px solid #00bcd4;
             box-shadow: 0 -2px 10px rgba(0,255,255,0.2);
@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function() {
             color: white;
         }
         .credit-footer a:hover {
-            transform: scale(0.9);
+            transform: scale(0.7);
             box-shadow: 0 4px 8px rgba(0,255,255,0.4);
         }
     `;

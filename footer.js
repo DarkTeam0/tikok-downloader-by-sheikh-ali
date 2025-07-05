@@ -21,11 +21,11 @@ document.addEventListener("DOMContentLoaded", function() {
             text-align: center;
             border-top: 2px solid #00bcd4;
             box-shadow: 0 -2px 10px rgba(0,255,255,0.2);
-            font-size: 16px;
+            font-size: 10px;
             margin-top: 40px;
             position: fixed;
             bottom: 0;
-            height: 50%;
+            width: 100%;
             left: 0;
             z-index: 1000;
         }

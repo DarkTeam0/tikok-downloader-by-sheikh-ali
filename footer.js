@@ -17,11 +17,11 @@ document.addEventListener("DOMContentLoaded", function() {
     style.textContent = `
         .credit-footer {
             background: #111;
-            padding: 16px;
+            padding: 19px;
             text-align: center;
             border-top: 2px solid #00bcd4;
             box-shadow: 0 -2px 10px rgba(0,255,255,0.2);
-            font-size: 20px;
+            font-size: 16px;
             margin-top: 40px;
             position: fixed;
             bottom: 0;
